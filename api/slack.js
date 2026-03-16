@@ -1,7 +1,7 @@
 const rules = require("../rules.json")
 
 module.exports = async function handler(req, res) {
-    let body = req.body
+    let body = typeof req.body === "string" ? JSON.parse(req.body) : req.body
     if (body.type === "url_verification") return res.json({ challenge: body.challenge })
     if (body.type !== "event_callback") return res.status(400).end()
     if (body.event.type !== "app_mention") return res.status(200).end()
