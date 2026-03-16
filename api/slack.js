@@ -1,6 +1,6 @@
-import rules from "../rules.json" with { type: "json" }
+const rules = require("../rules.json")
 
-export default async function handler(req, res) {
+module.exports = async function handler(req, res) {
     let body = req.body
     if (body.type === "url_verification") return res.json({ challenge: body.challenge })
     if (body.type !== "event_callback") return res.status(400).end()
