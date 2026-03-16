@@ -1,0 +1,846 @@
+{
+    "G101": {
+        "name": "Humans, remain outside the FIELD.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g101-humans-remain-outside-the-field"
+    },
+    "G102": {
+        "name": "Never step over the guardrail.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g102-never-step-over-the-guardrail"
+    },
+    "G103": {
+        "name": "Be careful what you interact with.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g103-be-careful-what-you-interact-with"
+    },
+    "G104": {
+        "name": "Teams may not enable their ROBOTS on the FIELD.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g104-teams-may-not-enable-their-robots-on-the-field"
+    },
+    "G201": {
+        "name": "Be a good person.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g201-be-a-good-person"
+    },
+    "G202": {
+        "name": "Don’t bang on the glass.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g202-dont-bang-on-the-glass"
+    },
+    "G203": {
+        "name": "Asking other teams to throw a MATCH – not cool.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g203-asking-other-teams-to-throw-a-match-not-cool"
+    },
+    "G204": {
+        "name": "Letting someone coerce you into throwing a MATCH – also not cool.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g204-letting-someone-coerce-you-into-throwing-a-match-also-not-cool"
+    },
+    "G205": {
+        "name": "Throwing your own MATCH is bad.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g205-throwing-your-own-match-is-bad"
+    },
+    "G206": {
+        "name": "Don't violate rules for RPs.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g206-dont-violate-rules-for-rps"
+    },
+    "G207": {
+        "name": "Don’t abuse ARENA access.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g207-dont-abuse-arena-access"
+    },
+    "G208": {
+        "name": "Show up to your Qualification MATCHES.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g208-show-up-to-your-qualification-matches"
+    },
+    "G209": {
+        "name": "Keep your ROBOT together.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g209-keep-your-robot-together"
+    },
+    "G210": {
+        "name": "Don’t expect to gain by doing others harm.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g210-dont-expect-to-gain-by-doing-others-harm"
+    },
+    "G211": {
+        "name": "Egregious or exceptional violations.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g211-egregious-or-exceptional-violations"
+    },
+    "G212": {
+        "name": "All teams can play.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g212-all-teams-can-play"
+    },
+    "G301": {
+        "name": "Be prompt.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g301-be-prompt"
+    },
+    "G302": {
+        "name": "Limit what you use during a MATCH.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g302-limit-what-you-use-during-a-match"
+    },
+    "G303": {
+        "name": "Start your ROBOTS.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g303-start-your-robots"
+    },
+    "G401": {
+        "name": "Behind the lines.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g401-behind-the-lines"
+    },
+    "G402": {
+        "name": "Let the ROBOT do its thing.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g402-let-the-robot-do-its-thing"
+    },
+    "G403": {
+        "name": "Limited AUTO opponent interaction.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g403-limited-auto-opponent-interaction"
+    },
+    "G404": {
+        "name": "ROBOTS: use SCORING ELEMENTS as directed.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g404-robots-use-scoring-elements-as-directed"
+    },
+    "G405": {
+        "name": "Keep SCORING ELEMENTS in bounds.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g405-keep-scoring-elements-in-bounds"
+    },
+    "G406": {
+        "name": "Don’t abuse SCORING ELEMENTS.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g406-dont-abuse-scoring-elements"
+    },
+    "G407": {
+        "name": "Only score while in your ALLIANCE ZONE.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g407-only-score-while-in-your-alliance-zone"
+    },
+    "G408": {
+        "name": "Don’t catch FUEL.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g408-dont-catch-fuel"
+    },
+    "G409": {
+        "name": "ROBOTS must be safe.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g409-robots-must-be-safe"
+    },
+    "G410": {
+        "name": "Keep your BUMPERS low.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g410-keep-your-bumpers-low"
+    },
+    "G411": {
+        "name": "Don’t damage the FIELD.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g411-dont-damage-the-field"
+    },
+    "G412": {
+        "name": "Watch your FIELD interaction.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g412-watch-your-field-interaction"
+    },
+    "G413": {
+        "name": "Expansion limits.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g413-expansion-limits"
+    },
+    "G414": {
+        "name": "Don’t Climb on each other.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g414-dont-climb-on-each-other"
+    },
+    "G415": {
+        "name": "Stay out of other ROBOTS.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g415-stay-out-of-other-robots"
+    },
+    "G416": {
+        "name": "This isn’t combat robotics.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g416-this-isnt-combat-robotics"
+    },
+    "G417": {
+        "name": "Don’t tip or entangle.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g417-dont-tip-or-entangle"
+    },
+    "G418": {
+        "name": "There’s a 3-count on PINS.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g418-theres-a-3-count-on-pins"
+    },
+    "G419": {
+        "name": "Don’t collude with your partners to shut down major parts of game play.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g419-dont-collude-with-your-partners-to-shut-down-major-parts-of-game-play"
+    },
+    "G420": {
+        "name": "TOWER protection.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g420-tower-protection"
+    },
+    "G421": {
+        "name": "No wandering.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g421-no-wandering"
+    },
+    "G422": {
+        "name": "DRIVE COACHES and other teams: hands off the controls.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g422-drive-coaches-and-other-teams-hands-off-the-controls"
+    },
+    "G423": {
+        "name": "DRIVE TEAMS, watch your reach.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g423-drive-teams-watch-your-reach"
+    },
+    "G424": {
+        "name": "Humans: use SCORING ELEMENTS as directed.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g424-humans-use-scoring-elements-as-directed"
+    },
+    "G425": {
+        "name": "SCORING ELEMENT delivery.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g425-scoring-element-delivery"
+    },
+    "G426": {
+        "name": "DRIVE COACHES, SCORING ELEMENTS are off limits.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g426-drive-coaches-scoring-elements-are-off-limits"
+    },
+    "G427": {
+        "name": "The OUTPOST has a storage limit.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g427-the-outpost-has-a-storage-limit"
+    },
+    "G501": {
+        "name": "Leave promptly.",
+        "link": "https://www.frcmanual.com/2026/game-rules-(g)#g501-leave-promptly"
+    },
+    "R101": {
+        "name": "ROBOT PERIMETER must be fixed.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r101-robot-perimeter-must-be-fixed"
+    },
+    "R102": {
+        "name": "STARTING CONFIGURATION – no overhang.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r102-starting-configuration-no-overhang"
+    },
+    "R103": {
+        "name": "ROBOT weight limit.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r103-robot-weight-limit"
+    },
+    "R104": {
+        "name": "STARTING CONFIGURATION – max size.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r104-starting-configuration-max-size"
+    },
+    "R105": {
+        "name": "ROBOT horizontal extension limit.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r105-robot-horizontal-extension-limit"
+    },
+    "R106": {
+        "name": "Horizontal extension – one direction at a time.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r106-horizontal-extension-one-direction-at-a-time"
+    },
+    "R107": {
+        "name": "ROBOT vertical extension limit.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r107-robot-vertical-extension-limit"
+    },
+    "R108": {
+        "name": "ROBOT extension floor interaction ROBOT extensions may not interact with the carpet, BUMPS, or TOWER BASE such that the BUMPERS are lifted out of the BUMPER ZONE (see R405).",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r108-robot-extension-floor-interaction-robot-extensions-may-not-interact-with-the-carpet-bumps-or-tower-base-such-that-the-bumpers-are-lifted-out-of-the-bumper-zone-see-r405"
+    },
+    "R201": {
+        "name": "No digging into carpet.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r201-no-digging-into-carpet"
+    },
+    "R202": {
+        "name": "No exposed sharp edges.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r202-no-exposed-sharp-edges"
+    },
+    "R203": {
+        "name": "General safety.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r203-general-safety"
+    },
+    "R204": {
+        "name": "Leave SCORING ELEMENTS at the FIELD.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r204-leave-scoring-elements-at-the-field"
+    },
+    "R205": {
+        "name": "Don’t contaminate the FIELD.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r205-dont-contaminate-the-field"
+    },
+    "R206": {
+        "name": "Don’t damage SCORING ELEMENTS.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r206-dont-damage-scoring-elements"
+    },
+    "R301": {
+        "name": "Individual item cost limit.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r301-individual-item-cost-limit"
+    },
+    "R302": {
+        "name": "MAJOR MECHANISM, from this year only.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r302-major-mechanism-from-this-year-only"
+    },
+    "R303": {
+        "name": "Create new designs and software, unless they’re public.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r303-create-new-designs-and-software-unless-theyre-public"
+    },
+    "R401": {
+        "name": "BUMPERS almost all around.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r401-bumpers-almost-all-around"
+    },
+    "R402": {
+        "name": "BUMPER construction.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r402-bumper-construction"
+    },
+    "R403": {
+        "name": "BUMPER extension limit.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r403-bumper-extension-limit"
+    },
+    "R404": {
+        "name": "BUMPERS must be soft.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r404-bumpers-must-be-soft"
+    },
+    "R405": {
+        "name": "BUMPERS interact with BUMPERS.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r405-bumpers-interact-with-bumpers"
+    },
+    "R406": {
+        "name": "Fill BUMPER corners.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r406-fill-bumper-corners"
+    },
+    "R407": {
+        "name": "BUMPERS shouldn’t be wedges.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r407-bumpers-shouldnt-be-wedges"
+    },
+    "R408": {
+        "name": "Weight limit with BUMPERS.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r408-weight-limit-with-bumpers"
+    },
+    "R409": {
+        "name": "BUMPERS should be passive.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r409-bumpers-should-be-passive"
+    },
+    "R410": {
+        "name": "BUMPERS must come off.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r410-bumpers-must-come-off"
+    },
+    "R411": {
+        "name": "BUMPERS indicate your ALLIANCE.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r411-bumpers-indicate-your-alliance"
+    },
+    "R412": {
+        "name": "Team number on BUMPERS.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r412-team-number-on-bumpers"
+    },
+    "R501": {
+        "name": "Allowable motors.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r501-allowable-motors"
+    },
+    "R502": {
+        "name": "Only 4 propulsion motors.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r502-only-4-propulsion-motors"
+    },
+    "R503": {
+        "name": "Don’t modify motors (mostly).",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r503-dont-modify-motors-mostly"
+    },
+    "R504": {
+        "name": "Power (most) actuators off of approved devices.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r504-power-most-actuators-off-of-approved-devices"
+    },
+    "R505": {
+        "name": "Don’t overload controllers.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r505-dont-overload-controllers"
+    },
+    "R506": {
+        "name": "Control servos safely.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r506-control-servos-safely"
+    },
+    "R601": {
+        "name": "Battery limit – everyone has the same power.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r601-battery-limit-everyone-has-the-same-power"
+    },
+    "R602": {
+        "name": "Other batteries for cameras or computers only.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r602-other-batteries-for-cameras-or-computers-only"
+    },
+    "R603": {
+        "name": "Charge batteries with safe connectors.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r603-charge-batteries-with-safe-connectors"
+    },
+    "R604": {
+        "name": "Charge batteries at a safe rate.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r604-charge-batteries-at-a-safe-rate"
+    },
+    "R605": {
+        "name": "Batteries are not ballast.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r605-batteries-are-not-ballast"
+    },
+    "R606": {
+        "name": "Secure the battery.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r606-secure-the-battery"
+    },
+    "R607": {
+        "name": "Insulate battery connections.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r607-insulate-battery-connections"
+    },
+    "R608": {
+        "name": "Limit non-battery energy.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r608-limit-non-battery-energy"
+    },
+    "R609": {
+        "name": "Connect main power safely.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r609-connect-main-power-safely"
+    },
+    "R610": {
+        "name": "1 breaker/fuse per circuit.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r610-1-breakerfuse-per-circuit"
+    },
+    "R611": {
+        "name": "The ROBOT frame is not a wire.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r611-the-robot-frame-is-not-a-wire"
+    },
+    "R612": {
+        "name": "Must be able to turn ROBOT on and off safely.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r612-must-be-able-to-turn-robot-on-and-off-safely"
+    },
+    "R613": {
+        "name": "Electrical system must be inspectable.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r613-electrical-system-must-be-inspectable"
+    },
+    "R614": {
+        "name": "No high voltage allowed.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r614-no-high-voltage-allowed"
+    },
+    "R615": {
+        "name": "Power roboRIO as specified.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r615-power-roborio-as-specified"
+    },
+    "R616": {
+        "name": "Power radio as specified – Part 1.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r616-power-radio-as-specified-part-1"
+    },
+    "R617": {
+        "name": "Power radio as specified – Part 2.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r617-power-radio-as-specified-part-2"
+    },
+    "R618": {
+        "name": "Use PD terminals as designed.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r618-use-pd-terminals-as-designed"
+    },
+    "R619": {
+        "name": "Only use specified circuit breakers in a PD.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r619-only-use-specified-circuit-breakers-in-a-pd"
+    },
+    "R620": {
+        "name": "Only use specified fuses in PD.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r620-only-use-specified-fuses-in-pd"
+    },
+    "R621": {
+        "name": "Protect circuits with appropriate circuit breakers.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r621-protect-circuits-with-appropriate-circuit-breakers"
+    },
+    "R622": {
+        "name": "Use appropriately sized wire.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r622-use-appropriately-sized-wire"
+    },
+    "R623": {
+        "name": "Use only appropriate connectors.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r623-use-only-appropriate-connectors"
+    },
+    "R624": {
+        "name": "Use specified wire colors (mostly).",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r624-use-specified-wire-colors-mostly"
+    },
+    "R625": {
+        "name": "Don’t modify critical power paths.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r625-dont-modify-critical-power-paths"
+    },
+    "R626": {
+        "name": "VH-109 PoE passthrough.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r626-vh-109-poe-passthrough"
+    },
+    "R701": {
+        "name": "Control the ROBOT with a roboRIO.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r701-control-the-robot-with-a-roborio"
+    },
+    "R702": {
+        "name": "Communicate with the ROBOT with the specified radio.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r702-communicate-with-the-robot-with-the-specified-radio"
+    },
+    "R703": {
+        "name": "Use specific Ethernet port for roboRIO.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r703-use-specific-ethernet-port-for-roborio"
+    },
+    "R704": {
+        "name": "Only use allowed ports and bandwidth to communicate with the ROBOT.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r704-only-use-allowed-ports-and-bandwidth-to-communicate-with-the-robot"
+    },
+    "R705": {
+        "name": "Configure devices for your team number.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r705-configure-devices-for-your-team-number"
+    },
+    "R706": {
+        "name": "Don’t bypass the ARENA network.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r706-dont-bypass-the-arena-network"
+    },
+    "R707": {
+        "name": "Limited wireless allowed.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r707-limited-wireless-allowed"
+    },
+    "R708": {
+        "name": "Wireless bridge must be visible.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r708-wireless-bridge-must-be-visible"
+    },
+    "R709": {
+        "name": "ROBOTS must have a signal light.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r709-robots-must-have-a-signal-light"
+    },
+    "R710": {
+        "name": "Only specified modifications to control system devices permitted.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r710-only-specified-modifications-to-control-system-devices-permitted"
+    },
+    "R711": {
+        "name": "Don’t connect motor outputs to roboRIO.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r711-dont-connect-motor-outputs-to-roborio"
+    },
+    "R712": {
+        "name": "Control PWM controllers from the roboRIO.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r712-control-pwm-controllers-from-the-roborio"
+    },
+    "R713": {
+        "name": "Only approved MXP devices can control actuators.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r713-only-approved-mxp-devices-can-control-actuators"
+    },
+    "R714": {
+        "name": "Control CAN motor controllers from the roboRIO.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r714-control-can-motor-controllers-from-the-roborio"
+    },
+    "R715": {
+        "name": "Control PCM, PH, and Servo Hub from roboRIO.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r715-control-pcm-ph-and-servo-hub-from-roborio"
+    },
+    "R716": {
+        "name": "Don’t alter the CAN bus.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r716-dont-alter-the-can-bus"
+    },
+    "R717": {
+        "name": "USB to CAN adapter permitted.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r717-usb-to-can-adapter-permitted"
+    },
+    "R801": {
+        "name": "Only use explicitly permitted pneumatic parts.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r801-only-use-explicitly-permitted-pneumatic-parts"
+    },
+    "R802": {
+        "name": "No custom pneumatics and meet minimum pressure ratings.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r802-no-custom-pneumatics-and-meet-minimum-pressure-ratings"
+    },
+    "R803": {
+        "name": "Don’t modify pneumatics.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r803-dont-modify-pneumatics"
+    },
+    "R804": {
+        "name": "Only use specific pneumatic devices.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r804-only-use-specific-pneumatic-devices"
+    },
+    "R805": {
+        "name": "If using pneumatics, these parts are required.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r805-if-using-pneumatics-these-parts-are-required"
+    },
+    "R806": {
+        "name": "Compressed air from ROBOT compressor only.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r806-compressed-air-from-robot-compressor-only"
+    },
+    "R807": {
+        "name": "Air storage pressure limit.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r807-air-storage-pressure-limit"
+    },
+    "R808": {
+        "name": "Working air pressure limit.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r808-working-air-pressure-limit"
+    },
+    "R809": {
+        "name": "Limited devices at high pressure.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r809-limited-devices-at-high-pressure"
+    },
+    "R810": {
+        "name": "Pressure gauges must be visible.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r810-pressure-gauges-must-be-visible"
+    },
+    "R811": {
+        "name": "Relief valve requirements.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r811-relief-valve-requirements"
+    },
+    "R812": {
+        "name": "Pressure switch requirements.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r812-pressure-switch-requirements"
+    },
+    "R813": {
+        "name": "Vent plug requirements.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r813-vent-plug-requirements"
+    },
+    "R814": {
+        "name": "Don’t connect solenoid outputs together.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r814-dont-connect-solenoid-outputs-together"
+    },
+    "R901": {
+        "name": "Use the specified Driver Station Software.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r901-use-the-specified-driver-station-software"
+    },
+    "R902": {
+        "name": "The OPERATOR CONSOLE must have a visible display.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r902-the-operator-console-must-have-a-visible-display"
+    },
+    "R903": {
+        "name": "Connect FMS Ethernet directly to the OPERATOR CONSOLE.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r903-connect-fms-ethernet-directly-to-the-operator-console"
+    },
+    "R904": {
+        "name": "OPERATOR CONSOLE physical requirements.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r904-operator-console-physical-requirements"
+    },
+    "R905": {
+        "name": "FIELD wireless only.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r905-field-wireless-only"
+    },
+    "R906": {
+        "name": "No unsafe OPERATOR CONSOLES.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r906-no-unsafe-operator-consoles"
+    },
+    "R907": {
+        "name": "No AC inverters.",
+        "link": "https://www.frcmanual.com/2026/robot-construction-rules-(r)#r907-no-ac-inverters"
+    },
+    "I101": {
+        "name": "It’s your team’s ROBOT.",
+        "link": "https://www.frcmanual.com/2026/inspection-and-eligibility-(i)#i101-its-your-teams-robot"
+    },
+    "I102": {
+        "name": "Get inspected before playing a Qualification MATCH.",
+        "link": "https://www.frcmanual.com/2026/inspection-and-eligibility-(i)#i102-get-inspected-before-playing-a-qualification-match"
+    },
+    "I103": {
+        "name": "Bring it all to inspection.",
+        "link": "https://www.frcmanual.com/2026/inspection-and-eligibility-(i)#i103-bring-it-all-to-inspection"
+    },
+    "I104": {
+        "name": "Unless the change is listed below, any change to a ROBOT must get re-inspected.",
+        "link": "https://www.frcmanual.com/2026/inspection-and-eligibility-(i)#i104-unless-the-change-is-listed-below-any-change-to-a-robot-must-get-re-inspected"
+    },
+    "I105": {
+        "name": "Don’t exploit re-inspection.",
+        "link": "https://www.frcmanual.com/2026/inspection-and-eligibility-(i)#i105-dont-exploit-re-inspection"
+    },
+    "I106": {
+        "name": "ROBOTS are off for inspection (mostly).",
+        "link": "https://www.frcmanual.com/2026/inspection-and-eligibility-(i)#i106-robots-are-off-for-inspection-mostly"
+    },
+    "I107": {
+        "name": "No STUDENT, no inspection.",
+        "link": "https://www.frcmanual.com/2026/inspection-and-eligibility-(i)#i107-no-student-no-inspection"
+    },
+    "T607": {
+        "name": "No BACKUP TEAM for replayed MATCHES.",
+        "link": "https://www.frcmanual.com/2026/tournaments-(t)#t607-no-backup-team-for-replayed-matches"
+    },
+    "T609": {
+        "name": "BACKUP TEAMS play when called.",
+        "link": "https://www.frcmanual.com/2026/tournaments-(t)#t609-backup-teams-play-when-called"
+    },
+    "C301": {
+        "name": "Wear your buttons.",
+        "link": "https://www.frcmanual.com/2026/first-championship-tournament-(c)#c301-wear-your-buttons"
+    },
+    "E101": {
+        "name": "Personal safety comes first.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e101-personal-safety-comes-first"
+    },
+    "E102": {
+        "name": "Be nice.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e102-be-nice"
+    },
+    "E103": {
+        "name": "Children with adults, please.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e103-children-with-adults-please"
+    },
+    "E104": {
+        "name": "Respect the venue.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e104-respect-the-venue"
+    },
+    "E105": {
+        "name": "Teams must check in.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e105-teams-must-check-in"
+    },
+    "E106": {
+        "name": "Some event resources for event teams only.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e106-some-event-resources-for-event-teams-only"
+    },
+    "E107": {
+        "name": "Work in designated areas only.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e107-work-in-designated-areas-only"
+    },
+    "E108": {
+        "name": "Some things don’t belong at events.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e108-some-things-dont-belong-at-events"
+    },
+    "E109": {
+        "name": "Don’t arrange for additional utilities.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e109-dont-arrange-for-additional-utilities"
+    },
+    "E110": {
+        "name": "Don’t sell stuff.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e110-dont-sell-stuff"
+    },
+    "E111": {
+        "name": "Don’t give out food.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e111-dont-give-out-food"
+    },
+    "E112": {
+        "name": "Make FIRST loud, but with restrictions.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e112-make-first-loud-but-with-restrictions"
+    },
+    "E113": {
+        "name": "Hang banners with care.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e113-hang-banners-with-care"
+    },
+    "E114": {
+        "name": "Limit flag and flagpole size.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e114-limit-flag-and-flagpole-size"
+    },
+    "E115": {
+        "name": "No firearms.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e115-no-firearms"
+    },
+    "E116": {
+        "name": "Only COTS batteries allowed.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e116-only-cots-batteries-allowed"
+    },
+    "E117": {
+        "name": "Do not record anyone at the event without their consent.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e117-do-not-record-anyone-at-the-event-without-their-consent"
+    },
+    "E118": {
+        "name": "Enter only 1 ROBOT.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e118-enter-only-1-robot"
+    },
+    "E201": {
+        "name": "The ROBOT goes alone to off-site machine shops.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e201-the-robot-goes-alone-to-off-site-machine-shops"
+    },
+    "E301": {
+        "name": "No wireless communication.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e301-no-wireless-communication"
+    },
+    "E302": {
+        "name": "Don’t interfere with wireless networks.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e302-dont-interfere-with-wireless-networks"
+    },
+    "E303": {
+        "name": "Tethered operation outside FIELDS/PRACTICE AREAS.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e303-tethered-operation-outside-fieldspractice-areas"
+    },
+    "E401": {
+        "name": "Load in during Load-In.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e401-load-in-during-load-in"
+    },
+    "E402": {
+        "name": "Load-In person limit is 6.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e402-load-in-person-limit-is-6"
+    },
+    "E403": {
+        "name": "Load-In Restrictions.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e403-load-in-restrictions"
+    },
+    "E404": {
+        "name": "Pit must be left in a safe state.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e404-pit-must-be-left-in-a-safe-state"
+    },
+    "E405": {
+        "name": "Once done, head out.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e405-once-done-head-out"
+    },
+    "E501": {
+        "name": "Pits are unavailable if closed.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e501-pits-are-unavailable-if-closed"
+    },
+    "E502": {
+        "name": "Stay in your pit.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e502-stay-in-your-pit"
+    },
+    "E503": {
+        "name": "Keep aisles clear.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e503-keep-aisles-clear"
+    },
+    "E504": {
+        "name": "No sparks or flames.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e504-no-sparks-or-flames"
+    },
+    "E505": {
+        "name": "Nothing too big.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e505-nothing-too-big"
+    },
+    "E506": {
+        "name": "No brazing or welding.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e506-no-brazing-or-welding"
+    },
+    "E507": {
+        "name": "Solder with specific tools only.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e507-solder-with-specific-tools-only"
+    },
+    "E508": {
+        "name": "Structures must be safe.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e508-structures-must-be-safe"
+    },
+    "E509": {
+        "name": "Secure team identification assets.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e509-secure-team-identification-assets"
+    },
+    "E510": {
+        "name": "No automated tools overnight.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e510-no-automated-tools-overnight"
+    },
+    "E511": {
+        "name": "Pit Power Limit.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e511-pit-power-limit"
+    },
+    "E601": {
+        "name": "Inspection for TEST & PRACTICE AREAS.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e601-inspection-for-test-practice-areas"
+    },
+    "E602": {
+        "name": "Practice only when/where permitted.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e602-practice-only-whenwhere-permitted"
+    },
+    "E603": {
+        "name": "TEST/PRACTICE AREA attendance is limited.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e603-testpractice-area-attendance-is-limited"
+    },
+    "E604": {
+        "name": "Give ROBOTS space.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e604-give-robots-space"
+    },
+    "E605": {
+        "name": "Be ready to DISABLE.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e605-be-ready-to-disable"
+    },
+    "E606": {
+        "name": "Be safe.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e606-be-safe"
+    },
+    "E701": {
+        "name": "Carts must be safe and easy to use.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e701-carts-must-be-safe-and-easy-to-use"
+    },
+    "E702": {
+        "name": "Carts shouldn’t be too big.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e702-carts-shouldnt-be-too-big"
+    },
+    "E703": {
+        "name": "Carts can’t park anywhere.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e703-carts-cant-park-anywhere"
+    },
+    "E704": {
+        "name": "No noisy carts.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e704-no-noisy-carts"
+    },
+    "E705": {
+        "name": "No motor driven carts.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e705-no-motor-driven-carts"
+    },
+    "E706": {
+        "name": "Small ROBOT carts are allowed on the FIELD.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e706-small-robot-carts-are-allowed-on-the-field"
+    },
+    "E801": {
+        "name": "If in the pits during Ceremonies, shhhhhh.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e801-if-in-the-pits-during-ceremonies-shhhhhh"
+    },
+    "E802": {
+        "name": "Pit person limit during Ceremonies is 5.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e802-pit-person-limit-during-ceremonies-is-5"
+    },
+    "E803": {
+        "name": "Be respectful during anthems.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e803-be-respectful-during-anthems"
+    },
+    "E901": {
+        "name": "No saving seats.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e901-no-saving-seats"
+    },
+    "E902": {
+        "name": "Don’t throw items from the stands.",
+        "link": "https://www.frcmanual.com/2026/event-rules-(e)#e902-dont-throw-items-from-the-stands"
+    }
+}
