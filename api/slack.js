@@ -1,4 +1,4 @@
-import rules from "../rules.json" assert { type: "json" }
+import rules from "../rules.json" with { type: "json" }
 
 export default async function handler(req, res) {
     let body = req.body
