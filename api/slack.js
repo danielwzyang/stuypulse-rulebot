@@ -4,10 +4,13 @@ module.exports = async function handler(req, res) {
     let body = typeof req.body === "string" ? JSON.parse(req.body) : req.body
     if (body.type === "url_verification") return res.json({ challenge: body.challenge })
     if (body.type !== "event_callback") return res.status(400).end()
-    if (body.event.type !== "app_mention") return res.status(200).end()
+    if (body.event.bot_id || body.event.subtype === "bot_message") return res.status(200).end();
+    if (body.event.type !== "app_mention" && body.event.channel_type !== "im") return res.status(200).end()
         
     let matches = body.event.text.toUpperCase().match(/[A-Z]\d+/g) || []
     let lines = matches.filter(key => rules[key]).map(key => `<${rules[key].link}|${key}>: ${rules[key].name}`)
+
+    if (lines.length == 0 && body.event.channel_type === "im") return res.status(200).end()
 
     await fetch("https://slack.com/api/chat.postMessage", {
         method: "POST",
